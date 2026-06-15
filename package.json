@@ -1,0 +1,15 @@
+{
+  "name": "pharos-wallet-risk-skill",
+  "version": "0.1.0",
+  "description": "Pharos Skill Engine: Wallet Risk Analysis. A Phase 1 Skill for on-chain wallet risk assessment.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-wallet-data.js",
+    "analyze": "node scripts/analyze-wallet.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.0.0",
+    "ethers": "^6.9.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pharos-atlantic": {
+    "name": "Pharos Atlantic Testnet",
+    "rpcUrl": "https://atlantic.dplabs-internal.com",
+    "chainId": 688689,
+    "nativeToken": "PHRS",
+    "tokens": []
+  },
+  "pharos-mainnet": {
+    "name": "Pharos Mainnet",
+    "rpcUrl": "https://rpc.pharos.xyz",
+    "chainId": 1672,
+    "nativeToken": "PROS",
+    "tokens": []
+  },
+  "sepolia": {
+    "name": "Ethereum Sepolia Testnet",
+    "rpcUrl": "https://ethereum-sepolia-rpc.publicnode.com",
+    "chainId": 11155111,
+    "nativeToken": "ETH",
+    "tokens": []
+  }
+}
